@@ -215,8 +215,8 @@ img{
 }
 .home__img{
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: 30px;
+  bottom: -45px;
   width: 250px;
 }
 
@@ -415,8 +415,8 @@ img{
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 457px;
-    bottom: 15%;
+    width: 400px;
+    bottom: 0%;
   }
 
   .about__container, .skills__container{
